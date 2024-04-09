@@ -1,0 +1,79 @@
+Nenhum processo criado, aguarde até que outro processo seja criado
+Nenhum processo criado, aguarde até que outro processo seja criado
+
+	Processo 1 de tamanho 13 criado!
+
+Processo 1 executando...
+Tamanho restante: 13
+Processo 1 executando...
+Tamanho restante: 12
+Processo 1 executando...
+Tamanho restante: 11
+Processo 1 executando...
+Tamanho restante: 10
+
+	Processo 2 de tamanho 5 criado!
+
+Processo 1 executando...
+Tamanho restante: 9
+Processo 1 executando...
+Tamanho restante: 8
+
+	Processo 3 de tamanho 3 criado!
+
+Processo 1 executando...
+Tamanho restante: 7
+
+	Processo 4 de tamanho 4 criado!
+
+Processo 1 executando...
+Tamanho restante: 6
+Processo 1 executando...
+Tamanho restante: 5
+
+	Processo 5 de tamanho 18 criado!
+
+Processo 1 executando...
+Tamanho restante: 4
+Processo 1 executando...
+Tamanho restante: 3
+Processo 1 executando...
+Tamanho restante: 2
+Processo 1 executando...
+Tamanho restante: 1
+
+==================== Processo 1 finalizado! ====================
+
+Processo 2 executando...
+Tamanho restante: 5
+Processo 2 executando...
+Tamanho restante: 4
+
+	Processo 6 de tamanho 4 criado!
+
+Processo 2 executando...
+Tamanho restante: 3
+Processo 2 executando...
+Tamanho restante: 2
+Processo 2 executando...
+Tamanho restante: 1
+
+==================== Processo 2 finalizado! ====================
+
+
+	Processo 7 de tamanho 12 criado!
+
+Processo 3 executando...
+Tamanho restante: 3
+
+	Processo 8 de tamanho 6 criado!
+
+Processo 3 executando...
+Tamanho restante: 2
+Processo 3 executando...
+Tamanho restante: 1
+
+==================== Processo 3 finalizado! ====================
+
+Processo 4 executando...
+Tamanho restante: 4
